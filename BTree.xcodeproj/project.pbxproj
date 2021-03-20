@@ -610,10 +610,9 @@
 			};
 			buildConfigurationList = BB54D0A91C1F0357008A462B /* Build configuration list for PBXProject "BTree" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 				Base,
 			);
